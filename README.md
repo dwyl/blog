@@ -2,11 +2,11 @@
 
 # Why?
 
-Tob be answered by @iteles and/or @nelsonic
+To be answered by @iteles and/or @nelsonic
 
 # What
 
-A place for blog posts for the dwyl site. The initial aim is to have an initial set of blog posts where people can read about dwyl and some of the things we do and our thoughts on topics, so that the blog isn't bare
+A place for blog posts for the dwyl site. A place to plan the blog, discuss posts, ask questions, get help and post drafts. The initial aim is to have an initial set of blog posts where people can read about dwyl and some of the things we do and our thoughts on topics, so that the blog isn't bare
 
 # Why should employees be contributing?
 
@@ -16,7 +16,7 @@ Many reasons, mainly so that the blog has diversity in its content that reflects
 
 No, we can iterate and decide on this later by testing and seeing what works
 
-# Is there a word limit on posts
+# Is there a word limit on posts?
 
 No, we can iterate and decide on this later by testing and seeing what works
 
