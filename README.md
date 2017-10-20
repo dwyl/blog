@@ -1,10 +1,10 @@
-# blog
+# The dwyl blog
 
 # Why?
 
 To be answered by @iteles and/or @nelsonic
 
-# What
+# What?
 
 A place for blog posts for the dwyl site. A place to plan the blog, discuss posts, ask questions, get help and post drafts. The initial aim is to have an initial set of blog posts where people can read about dwyl and some of the things we do and our thoughts on topics, so that the blog isn't bare
 
@@ -12,7 +12,7 @@ A place for blog posts for the dwyl site. A place to plan the blog, discuss post
 
 Many reasons, mainly so that the blog has diversity in its content that reflects the diversity of the organisation. The blog isn't just for employees, it should expand to anyone in the dwyl community (and even outside of it - guest posts) who wishes to post, but for now we just need to get some posts up to get it started.
 
-# Is there a tone we would like them to follow?
+# Is there a tone we would like people to follow?
 
 No, we can iterate and decide on this later by testing and seeing what works
 
@@ -24,7 +24,7 @@ No, we can iterate and decide on this later by testing and seeing what works
 
 Yes, all employees are bound by confidentiality clauses in their contracts
 
-# What is the audience for the blog post?
+# What is the audience for the blog?
 
 Currently, people online wanting to learn more about dwyl and what we do and what we're about
 
