@@ -35,3 +35,7 @@ People can create an issue in this repo if they need support with something or i
 # How do people submit blog drafts?
 
 Post drafts can be written up in documents, emails or posted in issues (however people prefer) before being PR-ed to the dwyl-site repo in the blog folder (copy the welcome post as a template)
+
+# What if I have questions or blockers that stop me?
+
+Create an issue in this repo if you have any questions or blockers
